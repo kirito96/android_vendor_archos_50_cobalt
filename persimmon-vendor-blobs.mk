@@ -65,7 +65,6 @@ PRODUCT_COPY_FILES += \
     vendor/archos/persimmon/proprietary/lib/libmpo.so:system/lib/libmpo.so \
     vendor/archos/persimmon/proprietary/lib/libmpoencoder.so:system/lib/libmpoencoder.so \
     vendor/archos/persimmon/proprietary/lib/lib3a.so:system/lib/lib3a.so \
-    vendor/archos/persimmon/proprietary/lib/lib3am.so:system/lib/lib3am.so \
     vendor/archos/persimmon/proprietary/lib/lib3a_sample.so:system/lib/lib3a_sample.so \
     vendor/archos/persimmon/proprietary/lib/libcam.utils.sensorlistener.so:system/lib/libcam.utils.sensorlistener.so \
     vendor/archos/persimmon/proprietary/lib/libcamalgo.so:system/lib/libcamalgo.so \
